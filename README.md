@@ -50,8 +50,11 @@ My first end-to-end machine learning project predicting student academic perform
 ### 📫 Let's Connect
 
 📧 **Email:** fatemehramezanpour86@gmail.com  
+
 💼 **LinkedIn:** www.linkedin.com/in/fatemeh-ramezan-pour
+
 🔗 **GitHub:** https://github.com/Fatemeh-Ramezanpour-AI  
+
 🌐 **Portfolio:** Coming soon...
 
 ---
